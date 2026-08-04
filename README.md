@@ -3,9 +3,11 @@
 
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/60af6c26-20e6-4d1c-a9b8-1c4cc4156985" alt="Description" width="555">
+<img src="https://github.com/user-attachments/assets/e7ebd2fd-d2ce-4721-bd1f-4527a9b31c10" alt="Description" width="500">
 
-![](https://komarev.com/ghpvc/?username=AutisticDetective&color=FC8398&style=plastic&label=᧔o᧓)
+
+
+![](https://komarev.com/ghpvc/?username=AutisticDetective&color=BEB1EE&style=plastic&label=᧔o᧓)
 
 <details>
   <summary></summary>
@@ -15,5 +17,5 @@
 
 </details>
 
- [Ata](https://bloomingvision.atabook.org)book
+ [Ata](https://bloomingvision.atabook.org)<sub>book</sub>
 </div>

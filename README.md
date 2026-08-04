@@ -17,8 +17,6 @@
 
 [pt-fashion](https://github.com/pt-fashion)
 
-<img src="https://github.com/user-attachments/assets/08da055f-779a-4d58-854c-caf543315d87" alt="Description" width="310">
-
 </details>
 
  [Ata](https://bloomingvision.atabook.org)<sub>book</sub>

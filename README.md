@@ -7,7 +7,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=AutisticDetective&color=BEB1EE&labelcolor=BEB1EE&label=᧔o᧓)
+![](https://komarev.com/ghpvc/?username=AutisticDetective&label=᧔o᧓&color=BEB1EE&labelcolor=BEB1EE)
 
 <details>
   <summary></summary>

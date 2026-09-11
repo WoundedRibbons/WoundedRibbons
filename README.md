@@ -21,5 +21,5 @@
 [pt-contributers](https://github.com/pt-contributers)
 </details>
 
- [Ata](https://bloomingvision.atabook.org)<sub>book</sub>
+ [Ata](https://bloomingvision.atabook.org)<sub>book</sub>. [Straw](https://aiyusu.straw.page)<sub>page … WIP!</sub>
 </div>
